@@ -1,4 +1,4 @@
-# Pi Challenge - Angular 2 - Frontend
+# Pi Challenge - Angular 2
 
 Angular 2 front for Pi Challenge code test (wording should be in the same directory as this file, same name, PDF extension).
 
