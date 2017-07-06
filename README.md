@@ -72,13 +72,11 @@ Run `yarn lint` to execute the linter via [tslint](https://github.com/palantir/t
 
 ### Deployment
 
-Is configured with Heroku and CircleCI. 
-
-Any push to watched branches (i.e. master) will trigger CI and on success, Heroku deploy.
-
 #### Local Build
 
 Run `ng build` or `yarn build` to build the project. The build artifacts will be stored in the `dist/` directory. 
+
+#### Production Build
 
 Use the `-prod` flag for a production build.
 
